@@ -5,6 +5,7 @@ A simple Vue.js project for HSE
 Пункт 1 уже выполнен на компьютерах в HSE
 
 1) Установка nodejs и npm: 
+
 Для Windows / macOS: https://nodejs.org/en/download/
 
 Для Linxu - открываем терминал, туда вводим:
