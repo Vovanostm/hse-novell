@@ -1,6 +1,8 @@
 # novell
 
-> A Vue.js project
+A simple Vue.js project for HSE
+
+Установка nodejs: 
 
 ## Build Setup
 
