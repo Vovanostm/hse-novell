@@ -2,7 +2,18 @@
 
 A simple Vue.js project for HSE
 
-Установка nodejs: 
+Установка nodejs и npm: 
+Для Windows / macOS:  [Windows/Mac]https://nodejs.org/en/download/
+Для Linxu:
+1) Открываем терминал, туда вводим:
+```bash
+curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.9/install.sh | bash
+
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh" # This loads nvm
+
+
+```
 
 ## Build Setup
 
