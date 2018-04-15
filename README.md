@@ -6,7 +6,7 @@ A simple Vue.js project for HSE
 
 1) Установка nodejs и npm: 
 
-Для Windows / macOS: https://nodejs.org/en/download/
+Для Windows / macOS: [Windows / macOS](https://nodejs.org/en/download/)
 
 Для Linxu - открываем терминал, туда вводим:
 ``` bash
@@ -37,16 +37,16 @@ cd #название проекта
 
 ## Запуск проекта
 ``` bash
-# install dependencies
+# установка зависимостей - первая команда
 npm install
 
-# serve with hot reload at localhost:8080
+# запуск разработки и дев-сервера localhost:8080
 npm run dev
 
-# build for production with minification
+# собрать проект для размещения на сервере
 npm run build
 
-# build for production and view the bundle analyzer report
+# собрать проект и создать отчёт
 npm run build --report
 ```
 
