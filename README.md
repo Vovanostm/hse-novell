@@ -6,6 +6,7 @@ A simple Vue.js project for HSE
 
 1) Установка nodejs и npm: 
 Для Windows / macOS: https://nodejs.org/en/download/
+
 Для Linxu - открываем терминал, туда вводим:
 ```bash
 curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.9/install.sh | bash
