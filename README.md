@@ -35,6 +35,14 @@ vue init webpack my_super_novell
 cd #название проекта
 ```
 
+## Среда разработки
+
+Создавать веб-проеты можно в
+ 
+IDE: WebStorm или Pycharm
+
+Редакторах Atom / Visual Studio Code
+
 ## Запуск проекта
 ``` bash
 # установка зависимостей - первая команда
