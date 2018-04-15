@@ -2,8 +2,10 @@
 
 A simple Vue.js project for HSE
 
-Установка nodejs и npm: 
-Для Windows / macOS:  [Windows/Mac]https://nodejs.org/en/download/
+Пункт 1 уже выполнен на компьютерах в HSE
+
+1) Установка nodejs и npm: 
+Для Windows / macOS: https://nodejs.org/en/download/
 Для Linxu - открываем терминал, туда вводим:
 ```bash
 curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.9/install.sh | bash
@@ -11,12 +13,12 @@ curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.9/install.sh | b
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh" # This loads nvm
 ```
-Устанавливаем vue-cli:
+2) Устанавливаем vue-cli:
 ```bash
 npm i -g vue-cli
 ```
 
-Создаём проект с помощью vue-cli:
+3) Создаём проект с помощью vue-cli:
 ```bash
 vue init webpack #название проекта
 ```
